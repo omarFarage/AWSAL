@@ -1,0 +1,249 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+<title>
+Hydroponex - Hydroponic &amp; Agriculture Elementor Template Kit Preview - ThemeForest
+</title>
+
+  <head>
+
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="style.css" />
+
+    <title>Home</title>
+
+  </head>
+
+  <body>
+<img src="your_logo_image_here" alt="Your Logo" />
+
+ <input type="hidden" name="amount" value="50.00"> 
+
+<input type="hidden" name="currency_code" value="USD">
+
+ <!-- Provide a drop-down menu option field. --> <input type="hidden" name="on0" value="Type"> <br /> <select JOIN OUR COMMUNITY name="os0">
+
+ <option value="Select product">-- Select product --</option>
+
+ <option value="materials">Materials</option>
+
+ <option value="crops">Crops</option>
+ </select>
+
+ <br> 
+<!-- Display the payment button. -->
+<br>
+ <input type="image" name="submit" border="0" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif" alt="Buy Now">
+
+ <img alt="" border="0" width="1" height="1" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" >
+ </form>
+<div class="preview__header" data-view="ctaHeader" data-item-id="47601751">
+  <div class="AWSAL">
+    
+  </div>
+
+  <div id="js-preview__actions" class="preview__actions">
+
+  <div class="preview__action--buy">
+
+    <a class="header-buy-now e-btn--3d -color-primary" >Buy now</a>
+
+  </div>
+
+</div>
+</div>
+
+    <nav>
+       <body>
+  <div class="menu bar">
+ <ul>
+   <li class="active"><a href="#"><i class="fa-duotone fa-house"></i> Home</a></li>  
+  </ul>
+           
+  <ul>
+            <li><a href="#"><a href="#"><i class="fa-duotone fa-user"></i>Clients</a></li>
+                  <div class="sub menu one">
+                  <ul>
+                     <li><a href="#">Supplier</a></li>
+
+<div class="dropdown-content">
+    <a href="#">Materials-Equipment</a>
+<br>
+    <a href="#">Technecial Services</a>
+<br>
+
+    <a href="#">Finacial Services</a>
+  </div>
+
+                      <li><a href="#">Business</a></li>
+
+  <div class="dropdown-content">
+
+    <a href="#">Products</a>
+  <br>
+  </div>
+  <li><a href="#">Customer</a></li> 
+                </ul>
+
+            </div>
+            <li><a href="#"><a href="#"><i class="fa-duotone fa-edit"></i>Services</a></li>
+            <div class="sub menu one">
+                <ul>
+                    <li><a href="#">Consultation</a></li>
+
+                    <li><a href="#">Traning Services</a></li>
+
+ <div class="dropdown-content">
+
+    <a href="#">Agricultural-Students</a>
+<br>
+<a href="#">Eng-Students</a>
+  <br>
+  </div>
+</ul>
+
+    </div>
+   <li><a href="#">Feedback</a></li>
+
+  <li><a href="#"><a href="#"><i class="fa-duotone fa-phone"></i>Contact</a></li>
+        </ul>
+    </div>
+    <h3> Save Money, Save Time </h3>
+    <h1> PURE AGRICULTURAL PRODUCT  </h1>
+    <h2>Learn About Our Services and Join Our Community Today<h2>
+
+<br>
+<br>
+ <h1 class="product-title">The Equipment..</h1>
+
+<div class="container">
+  <div class="product-card">
+    <div class="product-image">
+      <!-- Add your image here -->
+      <img src="ren.png" height="200px" alt="Product Image" />
+    </div>
+   
+      <h2 class="product-title">Profi Stan: Brand</h2>
+
+     <h6 class="product-title">Model: Bogballe M35 ÿÿÿ-ÿ35
+Category:Fertilizer<br>
+distribution
+trolley Location Ukraine The 35M-TRU trolley<br> manufactured by LLC Stan Profi is designed for
+spreading 35M Bogballe mineral fertilizers <br>in fields coupled with a
+power vehicle (tractor). </h6>
+      <button class="add-to-cart-btn">Add to Cart</button>	
+     
+    </div>
+  </div>
+</div>
+
+
+
+
+
+<div class="container">
+  <div class="product-card">
+    <div class="product-image">
+      <!-- Add your image here -->
+      <img src="bangar.png" height="200px" alt="Product Image" />
+    </div>
+   
+      <h2 class="product-title"> beet harvestern: Brand</h2>
+
+     <h6 class="product-title">Grain container capacity: 9000 m3<br>
+Specifications:
+Number of cylinders: 6
+Turbo: ÿ<br>
+Intercooler: ÿ
+Capacity: 9000 cc
+Number of valves: 24. </h6>
+      <button class="add-to-cart-btn">Add to Cart</button>	
+     
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+<div class="container">
+  <div class="product-card">
+    <div class="product-image">
+      <!-- Add your image here -->
+      <img src="garar.png" height="200px" alt="Product Image" />
+    </div>
+   
+      <h2 class="product-title">Category: trailer: Brand</h2>
+
+     <h6 class="product-title">The depth of the plateau is 80 cm<br>
+- Hydraulic sculpting - Valve
+block - More
+powerful performance
+Location Slovenia<br>
+- The width of the plateau is 160 cm </h6>
+      <button class="add-to-cart-btn">Add to Cart</button>	
+     
+    </div>
+  </div>
+</div>
+<br>
+<br>
+ <h1 class="product-title">The Material...</h1>
+<br>
+<br>
+<div class="container">
+  <div class="product-card">
+    <div class="product-image">
+      <!-- Add your image here -->
+      <img src="tank.jpg" height="200px" alt="Product Image" />
+    </div>
+   
+      <h2 class="product-title">Powermix strength mixture</h2>
+ <button class="add-to-cart-btn">Add to Cart</button>
+
+<br>
+<br>
+
+
+
+<div class="container">
+  <div class="product-card">
+    <div class="product-image">
+      <!-- Add your image here -->
+      <img src="adama.jpg" height="200px" alt="Product Image" />
+    </div>
+   
+      <h2 class="product-title">Cure Sal (Salinity Treatment)</h2>
+ <button class="add-to-cart-btn">Add to Cart</button>
+
+
+<br>
+<br>
+
+
+
+<div class="container">
+  <div class="product-card">
+    <div class="product-image">
+      <!-- Add your image here -->
+      <img src="ceres.jpg" height="200px" alt="Product Image" />
+ 
+    </div>
+   
+      <h2 class="product-title">80% Volvic Acid</h2>
+<button class="add-to-cart-btn">Add to Cart</button>
+  </body>
+
+</html>
